@@ -1,6 +1,6 @@
 /*
 WHATSAPP BOT BY Janith sadanuwan 
-WHATSAPP - 94767438882
+WHATSAPP - 919778158839
 SUPPORT GROUP - https://t.me/QueenNilu
 YOUTUBE - http://youtube.com/janithsadanuwan
 */
@@ -14,7 +14,7 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QUEENNILU;;;EyEBwYIJ#9UfKgmOCD_LzWlIF7nigKKYWkRnIlq7TCMTKLCRwJQE' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
 global.POSTGRESQL_URL = ''
